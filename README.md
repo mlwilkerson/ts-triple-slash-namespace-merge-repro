@@ -16,6 +16,7 @@ ACTUAL: as expected
 # On the `triple-slash` branch:
 ```
 git checkout triple-slash
+./clean.sh
 tsc
 ```
 
