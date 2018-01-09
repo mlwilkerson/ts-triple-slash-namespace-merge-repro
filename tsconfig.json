@@ -3,6 +3,7 @@
     "typeRoots": [
       "node_modules/foo",
       "node_modules/subfoo"
-    ]
+    ],
+    "allowSyntheticDefaultImports": true
   }
 }
